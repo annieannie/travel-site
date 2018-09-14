@@ -1142,8 +1142,8 @@ Instead edit gulp/templates/sprite */
   }
 
       .site-header--dark .site-header__logo {
-        -webkit-transform: scale(.54);
-                transform: scale(.54);
+        -webkit-transform: scale(.56);
+                transform: scale(.56);
       }
   }
 
@@ -1342,7 +1342,7 @@ Instead edit gulp/templates/sprite */
 .modal {
   position: fixed;
   z-index: 5;
-  background-color: rgba(255, 355, 255, .5);
+  background-color: rgba(255, 355, 255, .85);
   top: 0;
   bottom: 0;
   left: 0;
